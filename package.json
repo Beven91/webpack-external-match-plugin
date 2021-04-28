@@ -1,0 +1,22 @@
+{
+  "name": "webpack-external-match-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beven91/webpack-external-match-plugin.git"
+  },
+  "author": "beven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beven91/webpack-external-match-plugin/issues"
+  },
+  "homepage": "https://github.com/Beven91/webpack-external-match-plugin#readme",
+  "devDependencies": {
+    "webpack": "^5.36.0"
+  }
+}
