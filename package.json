@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/Beven91/webpack-external-match-plugin.git"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
   "author": "beven",
   "license": "ISC",
   "bugs": {
