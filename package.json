@@ -1,5 +1,5 @@
 {
-  "name": "webpack-external-match-plugin",
+  "name": "webpack-externals-match-plugin",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
