@@ -8,7 +8,7 @@ class WebpackExternalsMatchPlugin {
   }
 
   apply(compiler) {
-    new webpack.ExternalsPlugin('module', this.matchExternals).apply(compiler);
+    new webpack.ExternalsPlugin('', this.matchExternals).apply(compiler);
   }
 
   /**
